@@ -1,0 +1,7 @@
+cd /d d:\download\source-6a04c32157f5fa6035f0aa8d-06704d4e46c3ded0
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/USERNAME/pro-phone-store.git
+git push -u origin main
